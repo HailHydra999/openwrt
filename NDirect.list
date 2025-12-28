@@ -343,7 +343,10 @@ DOMAIN-SUFFIX, hdslb.com
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,update.microsoft.com
 DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,cip.cc
+DOMAIN-SUFFIX,myip.ipip.net
 DOMAIN-SUFFIX,windowsupdate.microsoft.com
+
 
 
 
