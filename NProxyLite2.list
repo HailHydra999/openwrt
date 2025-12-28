@@ -97,11 +97,11 @@ DOMAIN,s3-ap-southeast-2.amazonaws.com
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
 DOMAIN,testflight.apple.com
-
-
-
-
-
+DOMAIN-SUFFIX,api.ipify.org
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,realip.cc
 
 
 
