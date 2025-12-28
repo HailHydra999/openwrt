@@ -1,5 +1,28 @@
 # 代理补充列表
 
+# 域名关键字匹配
+DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,dualstack.apiproxy-
+DOMAIN-KEYWORD,dualstack.ichnaea-web-
+DOMAIN-KEYWORD,spotify.com
+DOMAIN-KEYWORD,-spotify-com
+DOMAIN-KEYWORD,abematv.akamaized.net
+DOMAIN-KEYWORD,avoddashs
+DOMAIN-KEYWORD,jooxweb-api
+DOMAIN-KEYWORD,bbcfmt
+DOMAIN-KEYWORD,uk-live
+DOMAIN-KEYWORD,voddazn
+DOMAIN-KEYWORD,.hbogoasia.
+DOMAIN-KEYWORD,apple.com.akadns.net,
+DOMAIN-KEYWORD,icloud.com.akadns.net,
+DOMAIN-KEYWORD,.facebook.
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,.blogspot.
+DOMAIN-KEYWORD,neworld
+
+
 # 域名匹配
 DOMAIN,radio.itunes.apple.com
 DOMAIN,tv.applemusic.com
@@ -871,35 +894,6 @@ DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,api.mgtv.com
 DOMAIN-SUFFIX,channel5.com
 DOMAIN-SUFFIX,my5.tv
-
-
-
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,1e100
-DOMAIN-KEYWORD,1drv
-DOMAIN-KEYWORD,microsoft
-DOMAIN-KEYWORD,dualstack.apiproxy-
-DOMAIN-KEYWORD,dualstack.ichnaea-web-
-DOMAIN-KEYWORD,spotify.com
-DOMAIN-KEYWORD,-spotify-com
-DOMAIN-KEYWORD,abematv.akamaized.net
-DOMAIN-KEYWORD,avoddashs
-DOMAIN-KEYWORD,jooxweb-api
-DOMAIN-KEYWORD,bbcfmt
-DOMAIN-KEYWORD,uk-live
-DOMAIN-KEYWORD,voddazn
-DOMAIN-KEYWORD,.hbogoasia.
-DOMAIN-KEYWORD,apple.com.akadns.net,
-DOMAIN-KEYWORD,icloud.com.akadns.net,
-DOMAIN-KEYWORD,.facebook.
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,.blogspot.
-
-
-
-
-
 
 
 
