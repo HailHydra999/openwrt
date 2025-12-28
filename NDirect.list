@@ -28,6 +28,17 @@ DOMAIN,outlook.office365.com
 DOMAIN,smtp.office365.com
 
 
+# 域名关键字匹配
+DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,aria2
+DOMAIN-KEYWORD,xunlei
+DOMAIN-KEYWORD,yunpan
+DOMAIN-KEYWORD,Thunder
+DOMAIN-KEYWORD,XLLiveUD
+DOMAIN-KEYWORD,epicgames
+DOMAIN-KEYWORD,weixin
+
+
 
 
 # 域名后缀匹配
@@ -347,18 +358,6 @@ DOMAIN-SUFFIX,cip.cc
 DOMAIN-SUFFIX,myip.ipip.net
 DOMAIN-SUFFIX,windowsupdate.microsoft.com
 
-
-
-
-
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,baidu
-DOMAIN-KEYWORD,aria2
-DOMAIN-KEYWORD,xunlei
-DOMAIN-KEYWORD,yunpan
-DOMAIN-KEYWORD,Thunder
-DOMAIN-KEYWORD,XLLiveUD
 
 
 # IP段匹配
