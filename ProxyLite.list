@@ -30,7 +30,6 @@ DOMAIN-SUFFIX,ytimg.com
 
 #微软
 DOMAIN-KEYWORD,1drv
-DOMAIN-KEYWORD,microsoft
 DOMAIN-SUFFIX,aadrm.com
 DOMAIN-SUFFIX,acompli.com
 DOMAIN-SUFFIX,acompli.net
@@ -104,7 +103,6 @@ DOMAIN-SUFFIX,windows-ppe.net
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,windowsazure.com
-DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,wunderlist.com
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
