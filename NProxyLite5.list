@@ -141,7 +141,7 @@ DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azure.net
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azurerms.com
-DOMAIN-SUFFIX,bing.com
+
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cloudappsecurity.com
 DOMAIN-SUFFIX,edgesuite.net
@@ -740,7 +740,7 @@ DOMAIN-SUFFIX,go.dev
 DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,aimoon.com
-DOMAIN-SUFFIX,bing.com
+
 DOMAIN-SUFFIX,cccat.io
 DOMAIN-SUFFIX,dubox.com
 DOMAIN-SUFFIX,duboxcdn.com
