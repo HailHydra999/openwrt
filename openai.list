@@ -1,0 +1,34 @@
+#openai列表
+
+# 域名关键字匹配
+
+DOMAIN-KEYWORD,copilot
+
+# 域名匹配
+
+
+# 域名后缀匹配
+
+
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,azurefd.net
+DOMAIN-SUFFIX,cdn.auth0.com
+DOMAIN-SUFFIX,cdn.usefathom.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,platform.openai.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,openai.com
+
+
+
+# IP段匹配
+
+
+
