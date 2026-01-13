@@ -1,7 +1,15 @@
 #直连列表
 
 #补充直连
+
+
+DOMAIN-SUFFIX,activity.windows.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,functional.events.data.microsoft.com
 DOMAIN-SUFFIX,mobile.events.data.microsoft.com
+DOMAIN-SUFFIX,config.extension.grammarly.com
+DOMAIN-SUFFIX,southeastasia-pd00.augloop.svc.cloud.microsoft
+DOMAIN-SUFFIX,watson.events.data.microsoft.com
 
 
 # 域名关键字匹配
@@ -365,4 +373,5 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent Helper
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,Weiyun
+
 
