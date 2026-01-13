@@ -1,5 +1,9 @@
 #直连列表
 
+#补充直连
+DOMAIN-SUFFIX,mobile.events.data.microsoft.com
+
+
 # 域名关键字匹配
 
 DOMAIN-KEYWORD,aria2
@@ -361,3 +365,4 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent Helper
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,Weiyun
+
