@@ -3,8 +3,11 @@
 #补充直连
 
 
+DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,activity.windows.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,cloudmessaging.edge.microsoft.com
+DOMAIN-SUFFIX,events.data.microsoft.com
 DOMAIN-SUFFIX,functional.events.data.microsoft.com
 DOMAIN-SUFFIX,mobile.events.data.microsoft.com
 DOMAIN-SUFFIX,config.extension.grammarly.com
@@ -373,5 +376,6 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent Helper
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,Weiyun
+
 
 
