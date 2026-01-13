@@ -1,5 +1,28 @@
 #国外媒体代理列表
 
+USER-AGENT,*youtube*
+USER-AGENT,YouTube*
+USER-AGENT,com.google.ios.youtube*
+DOMAIN-KEYWORD,youtube
+DOMAIN,youtubei.googleapis.com
+DOMAIN,yt3.ggpht.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,withyoutube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtubeeducation.com
+DOMAIN-SUFFIX,youtubegaming.com
+DOMAIN-SUFFIX,youtubekids.com
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,ytimg.com
+
+
+
+
+
+
 # 域名关键字匹配
 
 DOMAIN-KEYWORD,.hbogoasia.
@@ -14,6 +37,13 @@ DOMAIN-KEYWORD,-spotify-com
 DOMAIN-KEYWORD,-tiktokcdn-com
 DOMAIN-KEYWORD,uk-live
 DOMAIN-KEYWORD,voddazn
+
+
+
+
+
+
+
 
 
 # 域名匹配
@@ -250,5 +280,6 @@ IP-CIDR,52.89.124.203/32,no-resolve
 IP-CIDR,54.148.37.5/32,no-resolve
 IP-CIDR,64.120.128.0/17,no-resolve
 IP-CIDR,66.197.128.0/17,no-resolve
+
 
 
