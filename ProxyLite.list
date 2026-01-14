@@ -42,18 +42,18 @@ DOMAIN,alt5-mtalk.google.com
 DOMAIN,alt6-mtalk.google.com
 DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
-DOMAIN,amp-api.podcasts.apple.com
-DOMAIN,apple.comscoreresearch.com
-DOMAIN,appleid.apple.com
-DOMAIN,apps.apple.com
+#DOMAIN,amp-api.podcasts.apple.com
+#DOMAIN,apple.comscoreresearch.com
+#DOMAIN,appleid.apple.com
+#DOMAIN,apps.apple.com
 DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
 DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
-DOMAIN,beta.music.apple.com
-DOMAIN,bookkeeper.itunes.apple.com
-DOMAIN,books.apple.com
-DOMAIN,books.itunes.apple.com
+#DOMAIN,beta.music.apple.com
+#DOMAIN,bookkeeper.itunes.apple.com
+#DOMAIN,books.apple.com
+#DOMAIN,books.itunes.apple.com
 DOMAIN,cacerts.digicert.com
 DOMAIN,cc.tvbs.com.tw
 DOMAIN,clientservices.googleapis.com
@@ -61,35 +61,35 @@ DOMAIN,clubhouse.pubnubapi.com
 DOMAIN,crl3.digicert.com
 DOMAIN,crl4.digicert.com
 DOMAIN,d3c33hcgiwev3.cloudfront.net
-DOMAIN,developer.apple.com
+#DOMAIN,developer.apple.com
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
-DOMAIN,gateway.icloud.com
+#DOMAIN,gateway.icloud.com
 DOMAIN,international-gfe.download.nvidia.com
-DOMAIN,itunes.apple.com
-DOMAIN,lookup-api.apple.com
+#DOMAIN,itunes.apple.com
+#DOMAIN,lookup-api.apple.com
 DOMAIN,mtalk.google.com
-DOMAIN,news-assets.apple.com
-DOMAIN,news-client.apple.com
-DOMAIN,news-client-search.apple.com
-DOMAIN,news-edge.apple.com
-DOMAIN,news-events.apple.com
-DOMAIN,ocsp.apple.com
+#DOMAIN,news-assets.apple.com
+#DOMAIN,news-client.apple.com
+#DOMAIN,news-client-search.apple.com
+#DOMAIN,news-edge.apple.com
+#DOMAIN,news-events.apple.com
+#DOMAIN,ocsp.apple.com
 DOMAIN,ocsp.digicert.com
 DOMAIN,ocsp.int-x3.letsencrypt.org
 DOMAIN,payments-jp.amazon.com
 DOMAIN,s3-ap-northeast-1.amazonaws.com
 DOMAIN,s3-ap-southeast-2.amazonaws.com
-DOMAIN,testflight.apple.com
+#DOMAIN,testflight.apple.com
 DOMAIN,translate.google.cn
 DOMAIN,translate.google.com
 DOMAIN,translate.googleapis.com
-DOMAIN,tv.apple.com
+#DOMAIN,tv.apple.com
 DOMAIN,update.googleapis.com
 DOMAIN,us.weibo.com
-DOMAIN,www.icloud.com
+#DOMAIN,www.icloud.com
 
 
 # 域名后缀匹配
@@ -117,7 +117,7 @@ DOMAIN-SUFFIX,apkfind.com
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkmonk.com
 DOMAIN-SUFFIX,apkpure.com
-DOMAIN-SUFFIX,apple.news
+#DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,aptoide.com
@@ -639,6 +639,7 @@ IP-CIDR6,2001:b28:f23c::/48,no-resolve
 IP-CIDR6,2001:b28:f23d::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
+
 
 
 
