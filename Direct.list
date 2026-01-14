@@ -3,13 +3,16 @@
 #补充直连
 
 
+DOMAIN-SUFFIX,a.nel.cloudflare.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,activity.windows.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,cloudmessaging.edge.microsoft.com
 DOMAIN-SUFFIX,events.data.microsoft.com
 DOMAIN-SUFFIX,edge.microsoft.com
+DOMAIN-SUFFIX,extension.femetrics.grammarly.io
 DOMAIN-SUFFIX,functional.events.data.microsoft.com
+DOMAIN-SUFFIX,img-s-msn-com.akamaized.net
 DOMAIN-SUFFIX,mobile.events.data.microsoft.com
 DOMAIN-SUFFIX,config.extension.grammarly.com
 DOMAIN-SUFFIX,southeastasia-pd00.augloop.svc.cloud.microsoft
@@ -384,6 +387,7 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent Helper
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,Weiyun
+
 
 
 
