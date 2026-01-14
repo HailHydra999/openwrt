@@ -5,7 +5,7 @@
 
 DOMAIN,api.sunlogin.oray.com
 DOMAIN,client.sunlogin.oray.com
-DOMAIN,kv801.prod.do.dsp.mp.microsoft.com
+
 DOMAIN,recent.svc.cloud.microsoft
 
 DOMAIN-SUFFIX,a.nel.cloudflare.com
@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,oray.net
 DOMAIN-SUFFIX,oraycdn.com
 DOMAIN-SUFFIX,orayimg.com
+DOMAIN-SUFFIX,prod.do.dsp.mp.microsoft.com
 
 DOMAIN-SUFFIX,southeastasia-pd00.augloop.svc.cloud.microsoft
 DOMAIN-SUFFIX,sunlogin.oray.com
@@ -413,6 +414,7 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent Helper
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,Weiyun
+
 
 
 
