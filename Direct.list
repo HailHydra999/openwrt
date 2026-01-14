@@ -29,7 +29,28 @@ DOMAIN-SUFFIX,southeastasia-pd00.augloop.svc.cloud.microsoft
 DOMAIN-SUFFIX,sunlogin.oray.com
 DOMAIN-SUFFIX,watson.events.data.microsoft.com
 
+# BT / 下载器进程直连
+PROCESS-NAME,aria2
+PROCESS-NAME,aria2c
+PROCESS-NAME,BitComet
+PROCESS-NAME,deluge
+PROCESS-NAME,DownloadService
+PROCESS-NAME,fdm
+PROCESS-NAME,kget
+PROCESS-NAME,mlnet
+PROCESS-NAME,motrix
+PROCESS-NAME,qbittorrent
+PROCESS-NAME,rtorrent
+PROCESS-NAME,Thunder
+PROCESS-NAME,Transmission
+PROCESS-NAME,uTorrent
 
+# BT 常见端口直连
+DST-PORT,6881-6889
+DST-PORT,51413
+DST-PORT,6969
+# 可选（确认无内部服务再加）
+# DST-PORT,7000-7009
 
 # 域名关键字匹配
 
@@ -392,6 +413,7 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent Helper
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,Weiyun
+
 
 
 
