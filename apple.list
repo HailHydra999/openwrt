@@ -1,39 +1,57 @@
 #苹果直连列表
 
-# 域名关键字匹配
+# Apple 服务分流规则
+
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,icloud.com.akadns.net
 
-
-
-
-
-# 域名后缀匹配
 DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.com.cn
-DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple.comscoreresearch.com
+DOMAIN-SUFFIX,appleid.apple.com
 DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,arcade.apple.com
+DOMAIN-SUFFIX,books.apple.com
 DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,cdn.apple-cloudkit.com
+DOMAIN-SUFFIX,configuration.apple.com
+DOMAIN-SUFFIX,crl.apple.com
+DOMAIN-SUFFIX,developer.apple.com
+DOMAIN-SUFFIX,fitness.apple.com
+DOMAIN-SUFFIX,gs.apple.com
+DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,lookup-api.apple.com
 DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,music.apple.com
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,news.apple.com
+DOMAIN-SUFFIX,ocsp.apple.com
+DOMAIN-SUFFIX,relay.apple.com
+DOMAIN-SUFFIX,testflight.apple.com
+DOMAIN-SUFFIX,tv.apple.com
+DOMAIN-SUFFIX,updates.cdn-apple.com
+DOMAIN-SUFFIX,www.icloud.com
+DOMAIN-SUFFIX,xp.apple.com
 
-
-
-
-# IP段匹配
+# IP 段匹配
+IP-CIDR,17.0.0.0/8,no-resolve
+IP-CIDR,63.92.224.0/19,no-resolve
+IP-CIDR,65.199.22.0/23,no-resolve
 IP-CIDR,139.178.128.0/18,no-resolve
 IP-CIDR,144.178.0.0/19,no-resolve
-IP-CIDR,17.0.0.0/8,no-resolve
 IP-CIDR,192.35.50.0/24,no-resolve
 IP-CIDR,198.183.17.0/24,no-resolve
 IP-CIDR,205.180.175.0/24,no-resolve
-IP-CIDR,63.92.224.0/19,no-resolve
-IP-CIDR,65.199.22.0/23,no-resolve
+
+
 
 
 
