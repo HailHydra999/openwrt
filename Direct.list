@@ -2,11 +2,13 @@
 #abcdefghijklmnopqrstuvwxyz
 #补充直连
 
+DOMAIN,ghs.cn
 
 DOMAIN,api.sunlogin.oray.com
 DOMAIN,client.sunlogin.oray.com
 DOMAIN,cxcs.microsoft.net
 DOMAIN,go.microsoft.com
+
 DOMAIN,recent.svc.cloud.microsoft
 
 DOMAIN-SUFFIX,a.nel.cloudflare.com
@@ -416,6 +418,7 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent Helper
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,Weiyun
+
 
 
 
