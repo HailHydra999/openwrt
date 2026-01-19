@@ -3,11 +3,15 @@
 #补充直连
 
 DOMAIN-SUFFIX,ghs.cn
+DOMAIN-SUFFIX,client.wns.windows.com  
 
 DOMAIN,api.sunlogin.oray.com
 DOMAIN,client.sunlogin.oray.com
 DOMAIN,cxcs.microsoft.net
 DOMAIN,go.microsoft.com
+DOMAIN,win1910.ipv6.microsoft.com
+DOMAIN,ecs.office.com
+DOMAIN,nav-edge.smartscreen.microsoft.com
 
 DOMAIN,recent.svc.cloud.microsoft
 
@@ -418,6 +422,7 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent Helper
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,Weiyun
+
 
 
 
