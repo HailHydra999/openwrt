@@ -183,7 +183,7 @@ DOMAIN-SUFFIX,cibntv.net
 DOMAIN-SUFFIX,classix-unlimited.co.uk
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbimg.com
-DOMAIN-SUFFIX,cn
+
 DOMAIN-SUFFIX,comicat.org
 DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,ctrip.com
@@ -425,6 +425,7 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent Helper
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,Weiyun
+
 
 
 
