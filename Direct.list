@@ -3,6 +3,9 @@
 #补充直连
 
 DOMAIN-SUFFIX,ghs.cn
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+
 DOMAIN-SUFFIX,client.wns.windows.com  
 
 DOMAIN,api.sunlogin.oray.com
@@ -422,6 +425,7 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent Helper
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,Weiyun
+
 
 
 
