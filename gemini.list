@@ -5,7 +5,7 @@
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
-DOMAIN-KEYWORD,google
+
 DOMAIN-KEYWORD,notebooklm.google
 
 # 域名匹配
@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+
 
 
 
