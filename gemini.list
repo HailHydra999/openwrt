@@ -6,7 +6,7 @@ DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
 
-DOMAIN-KEYWORD,notebooklm.google
+
 
 # 域名匹配
 
@@ -21,6 +21,7 @@ DOMAIN,makersuite.google.com
 
 DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,gemini.google.com
@@ -28,6 +29,7 @@ DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+
 
 
 
