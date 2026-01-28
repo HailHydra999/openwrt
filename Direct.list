@@ -2,6 +2,8 @@
 #abcdefghijklmnopqrstuvwxyz
 #补充直连
 
+DOMAIN-SUFFIX,checkappexec.microsoft.com
+DOMAIN-SUFFIX,iris.microsoft.com
 DOMAIN-SUFFIX,ghs.cn
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
@@ -425,6 +427,7 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent Helper
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,Weiyun
+
 
 
 
