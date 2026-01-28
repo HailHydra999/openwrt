@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,prod.do.dsp.mp.microsoft.com
 DOMAIN-SUFFIX,southeastasia-pd00.augloop.svc.cloud.microsoft
 DOMAIN-SUFFIX,sunlogin.oray.com
 DOMAIN-SUFFIX,watson.events.data.microsoft.com
+DOMAIN-SUFFIX,wdcp.microsoft.com
 DOMAIN-SUFFIX,wns.windows.com
 
 
@@ -423,6 +424,7 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent Helper
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,Weiyun
+
 
 
 
