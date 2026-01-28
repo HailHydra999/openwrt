@@ -42,7 +42,7 @@ DOMAIN-SUFFIX,msftauth.net
 DOMAIN-SUFFIX,msftauthimages.net
 DOMAIN-SUFFIX,msftidentity.com
 DOMAIN-SUFFIX,msidentity.com
-DOMAIN-SUFFIX,msn.com
+
 DOMAIN-SUFFIX,msocdn.com
 DOMAIN-SUFFIX,msocsp.com
 DOMAIN-SUFFIX,mstea.ms
@@ -90,6 +90,7 @@ DOMAIN-SUFFIX,youthidc.com
 
 
 # IP段匹配
+
 
 
 
