@@ -2,46 +2,42 @@
 #abcdefghijklmnopqrstuvwxyz
 #补充直连
 
-DOMAIN-SUFFIX,checkappexec.microsoft.com
-DOMAIN-SUFFIX,iris.microsoft.com
-DOMAIN-SUFFIX,ghs.cn
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,msftncsi.com
-
-DOMAIN-SUFFIX,client.wns.windows.com  
-
 DOMAIN,api.sunlogin.oray.com
 DOMAIN,client.sunlogin.oray.com
 DOMAIN,cxcs.microsoft.net
-DOMAIN,go.microsoft.com
-DOMAIN,win1910.ipv6.microsoft.com
 DOMAIN,ecs.office.com
+DOMAIN,go.microsoft.com
 DOMAIN,nav-edge.smartscreen.microsoft.com
-
 DOMAIN,recent.svc.cloud.microsoft
-
+DOMAIN,win1910.ipv6.microsoft.com
 DOMAIN-SUFFIX,a.nel.cloudflare.com
 DOMAIN-SUFFIX,activity.windows.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,checkappexec.microsoft.com
+DOMAIN-SUFFIX,client.wns.windows.com  
 DOMAIN-SUFFIX,cloudmessaging.edge.microsoft.com
 DOMAIN-SUFFIX,config.extension.grammarly.com
 DOMAIN-SUFFIX,edge.microsoft.com
 DOMAIN-SUFFIX,events.data.microsoft.com
 DOMAIN-SUFFIX,extension.femetrics.grammarly.io
 DOMAIN-SUFFIX,functional.events.data.microsoft.com
+DOMAIN-SUFFIX,ghs.cn
 DOMAIN-SUFFIX,img-s-msn-com.akamaized.net
+DOMAIN-SUFFIX,iris.microsoft.com
 DOMAIN-SUFFIX,mobile.events.data.microsoft.com
-
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,oray.net
 DOMAIN-SUFFIX,oraycdn.com
 DOMAIN-SUFFIX,orayimg.com
 DOMAIN-SUFFIX,prod.do.dsp.mp.microsoft.com
-
 DOMAIN-SUFFIX,southeastasia-pd00.augloop.svc.cloud.microsoft
 DOMAIN-SUFFIX,sunlogin.oray.com
 DOMAIN-SUFFIX,watson.events.data.microsoft.com
+DOMAIN-SUFFIX,wns.windows.com
+
 
 # BT / 下载器进程直连
 PROCESS-NAME,aria2
@@ -427,6 +423,7 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent Helper
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,Weiyun
+
 
 
 
