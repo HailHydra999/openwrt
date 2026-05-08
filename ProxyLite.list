@@ -82,10 +82,10 @@ DOMAIN-SUFFIX,aimoon.com
 
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,ampproject.org
-DOMAIN-SUFFIX,android.com
-DOMAIN-SUFFIX,androidify.com
+
+
 DOMAIN-SUFFIX,ao3.org
-DOMAIN-SUFFIX,apigee.com
+
 DOMAIN-SUFFIX,apkcombo.com
 DOMAIN-SUFFIX,apk-dl.com
 DOMAIN-SUFFIX,apkfind.com
@@ -93,7 +93,7 @@ DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkmonk.com
 DOMAIN-SUFFIX,apkpure.com
 #DOMAIN-SUFFIX,apple.news
-DOMAIN-SUFFIX,appspot.com
+
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,aptoide.com
 DOMAIN-SUFFIX,archive.is
@@ -104,7 +104,7 @@ DOMAIN-SUFFIX,arte.tv
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,arukas.io
 DOMAIN-SUFFIX,ask.com
-DOMAIN-SUFFIX,autodraw.com
+
 DOMAIN-SUFFIX,avg.com
 DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,badoo.com
@@ -126,8 +126,8 @@ DOMAIN-SUFFIX,bithumb.com
 DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,bitstamp.net
 DOMAIN-SUFFIX,bittrex.com
-DOMAIN-SUFFIX,blog.google
-DOMAIN-SUFFIX,blogger.com
+
+
 DOMAIN-SUFFIX,bloglovin.com
 DOMAIN-SUFFIX,bloomberg.cn
 DOMAIN-SUFFIX,bloomberg.com
