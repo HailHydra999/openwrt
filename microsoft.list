@@ -28,7 +28,9 @@ DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cloudappsecurity.com
 DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,gfx.ms
+DOMAIN-SUFFIX,graph.microsoft.com
 DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,login.microsoftonline.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,lync.com
