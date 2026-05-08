@@ -38,14 +38,7 @@ DOMAIN-KEYWORD,.facebook.
 
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
-DOMAIN,alt1-mtalk.google.com
-DOMAIN,alt2-mtalk.google.com
-DOMAIN,alt3-mtalk.google.com
-DOMAIN,alt4-mtalk.google.com
-DOMAIN,alt5-mtalk.google.com
-DOMAIN,alt6-mtalk.google.com
-DOMAIN,alt7-mtalk.google.com
-DOMAIN,alt8-mtalk.google.com
+
 #DOMAIN,amp-api.podcasts.apple.com
 #DOMAIN,apple.comscoreresearch.com
 #DOMAIN,appleid.apple.com
@@ -60,21 +53,18 @@ DOMAIN,az668014.vo.msecnd.net
 #DOMAIN,books.itunes.apple.com
 DOMAIN,cacerts.digicert.com
 DOMAIN,cc.tvbs.com.tw
-DOMAIN,clientservices.googleapis.com
+
 DOMAIN,clubhouse.pubnubapi.com
 DOMAIN,crl3.digicert.com
 DOMAIN,crl4.digicert.com
 DOMAIN,d3c33hcgiwev3.cloudfront.net
 #DOMAIN,developer.apple.com
-DOMAIN,dl.google.com
-DOMAIN,dl.l.google.com
-DOMAIN,fonts.googleapis.com
-DOMAIN,fonts.gstatic.com
+
 #DOMAIN,gateway.icloud.com
 DOMAIN,international-gfe.download.nvidia.com
 #DOMAIN,itunes.apple.com
 #DOMAIN,lookup-api.apple.com
-DOMAIN,mtalk.google.com
+
 #DOMAIN,news-assets.apple.com
 #DOMAIN,news-client.apple.com
 #DOMAIN,news-client-search.apple.com
@@ -87,11 +77,9 @@ DOMAIN,payments-jp.amazon.com
 DOMAIN,s3-ap-northeast-1.amazonaws.com
 DOMAIN,s3-ap-southeast-2.amazonaws.com
 #DOMAIN,testflight.apple.com
-DOMAIN,translate.google.cn
-DOMAIN,translate.google.com
-DOMAIN,translate.googleapis.com
+
 #DOMAIN,tv.apple.com
-DOMAIN,update.googleapis.com
+
 DOMAIN,us.weibo.com
 #DOMAIN,www.icloud.com
 
